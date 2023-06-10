@@ -1,0 +1,15 @@
+{
+  "name": "cellular-auto",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup init.js --file bundle.js --format iife"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.24.0"
+  }
+}
